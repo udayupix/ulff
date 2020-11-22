@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ulff/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ulff/static/js/main.75d9f3df.chunk.js",
+    "main.js.map": "/ulff/static/js/main.75d9f3df.chunk.js.map",
+    "runtime-main.js": "/ulff/static/js/runtime-main.1ed98137.js",
+    "runtime-main.js.map": "/ulff/static/js/runtime-main.1ed98137.js.map",
+    "static/js/2.14845f36.chunk.js": "/ulff/static/js/2.14845f36.chunk.js",
+    "static/js/2.14845f36.chunk.js.map": "/ulff/static/js/2.14845f36.chunk.js.map",
+    "static/js/3.82baf721.chunk.js": "/ulff/static/js/3.82baf721.chunk.js",
+    "static/js/3.82baf721.chunk.js.map": "/ulff/static/js/3.82baf721.chunk.js.map",
+    "index.html": "/ulff/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ulff/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.14845f36.chunk.js.LICENSE.txt": "/ulff/static/js/2.14845f36.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ulff/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed98137.js",
+    "static/js/2.14845f36.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.75d9f3df.chunk.js"
+  ]
+}
